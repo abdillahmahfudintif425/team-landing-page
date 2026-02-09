@@ -71,5 +71,5 @@ document.querySelectorAll('.floating-emoji').forEach(emoji => {
 });
 
 // Console easter egg
-console.log('%c🔥 Meet The Squad! 🔥', 'font-size: 24px; color: #ff6b35; font-weight: bold;');
+console.log('%c🔥 Meet The Team! 🔥', 'font-size: 24px; color: #ff6b35; font-weight: bold;');
 console.log('%cBuilt with 💜 by the team', 'font-size: 14px; color: #1e90ff;');
